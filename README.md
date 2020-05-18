@@ -8,5 +8,5 @@
 </p>
 
 ## About project
-Video uploading and management site by user site and control panel for admin
+Display videos by uploading and managing video files via a user site and a control panel for the controller and managing permissions for each user and creating an encoder and decoder for video files 
 
